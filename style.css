@@ -1,3 +1,5 @@
 body{
-   background: linear-gradient(+45deg,green,blue);
+ 
+   background: linear-gradient(+45deg,green, rgb(103, 243, 196));
+  
 } 
